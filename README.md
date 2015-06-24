@@ -1,0 +1,1 @@
+详见博文：[PC端与Android端音频的实时传输与绘制波形](http://lugeek.com/2014/04/16/pc-android-send-voice-and-draw/)
